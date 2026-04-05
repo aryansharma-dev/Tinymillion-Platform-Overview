@@ -3,6 +3,7 @@
 **Live Website:** https://tinymillion.com
 
 **Founder/COO:** Aryan Sharma  
+
 **Co-Founder/CEO:** Sarim Khan  
 
 **Tagline:** *For the One in a Million*
@@ -13,7 +14,8 @@
 - **Global Admin Panel:** https://admin.tinymillion.com
 - **Seller Dashboard (Mini Admin):** https://miniadmin.tinymillion.com
   
-Overview Video Link:https://drive.google.com/file/d/18HaD276Y1rgixwABU1vzDr1z6czGmZdD/view?usp=sharing
+**Overview Video**: [Watch Video] (https://drive.google.com/file/d/18HaD276Y1rgixwABU1vzDr1z6czGmZdD/view?usp=sharing)
+
 # Overview
 
 TinyMillion is a multi-store e-commerce platform designed to empower individual sellers, creators, and influencers to launch and scale their own online stores without technical complexity.
