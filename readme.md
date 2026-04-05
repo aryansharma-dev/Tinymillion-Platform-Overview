@@ -8,6 +8,12 @@ Co-Founder/Ceo: Sarim Khan
 
 Tagline: For the One in a Million
 
+## Platform Access
+
+- **Main Website:** https://tinymillion.com
+- **Global Admin Panel:** https://admin.tinymillion.com
+- **Seller Dashboard (Mini Admin):** https://miniadmin.tinymillion.com
+  
 Overview Video Link:https://drive.google.com/file/d/18HaD276Y1rgixwABU1vzDr1z6czGmZdD/view?usp=sharing
 # Overview
 
