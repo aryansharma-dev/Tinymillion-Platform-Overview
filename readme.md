@@ -1,12 +1,11 @@
 # TinyMillion – Multi-Store E-Commerce Platform for Creators
 
-Live Website: https://tinymillion.com
+**Live Website:** https://tinymillion.com
 
-Founder/Coo: Aryan Sharma
+**Founder/COO:** Aryan Sharma  
+**Co-Founder/CEO:** Sarim Khan  
 
-Co-Founder/Ceo: Sarim Khan
-
-Tagline: For the One in a Million
+**Tagline:** *For the One in a Million*
 
 ## Platform Access
 
