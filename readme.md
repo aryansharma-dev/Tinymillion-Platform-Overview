@@ -2,7 +2,7 @@
 
 **Live Website:** https://tinymillion.com
 
-**Founder/Coo:** Aryan Sharma  
+**Founder/COO:** Aryan Sharma  
 **Co-Founder/CEO:** Sarim Khan
  
 
