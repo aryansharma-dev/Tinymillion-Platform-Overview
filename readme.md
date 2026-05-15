@@ -2,7 +2,7 @@
 
 **Live Website:** https://tinymillion.com
 
-**Founder/COO:** Aryan Sharma
+**Founder/CEO:** Aryan Sharma
  
 
 **Tagline:** *For the One in a Million*
