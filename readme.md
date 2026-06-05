@@ -2,7 +2,7 @@
 
 **Live Website:** https://tinymillion.com
 
-**Founder/CEO:** Aryan Sharma
+**Founder/CEO:** Aryan Sharma (Aryan)
  
 
 **Tagline:** *For the One in a Million*
@@ -14,8 +14,10 @@
 - **Seller Dashboard (Mini Admin):** https://miniadmin.tinymillion.com
 
 ## Product Demo & Presentation
+
+-**Overview Video**: [Watch Video Part1](https://drive.google.com/file/d/1zgYv2qLvP8q6n1mFJj9MYmUbBHWgPnJa/view?usp=sharing)
   
--**Overview Video**: [Watch Video](https://drive.google.com/file/d/19z9-azITZ6R7xCluFJ8kzxJZXs49xxT_/view?usp=sharing)
+-**Overview Video**: [Watch Video Part2](https://drive.google.com/file/d/19z9-azITZ6R7xCluFJ8kzxJZXs49xxT_/view?usp=sharing)
 
 -**Pitch Deck (Editable)**: [View Presentation](https://docs.google.com/presentation/d/1xXKsMNYqWwe_Xvpsiq6yFUBi74CBDrqq/edit?usp=drivesdk)
 
