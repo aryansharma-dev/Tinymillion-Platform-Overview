@@ -1,4 +1,4 @@
-# TinyMillion – Multi-Store E-Commerce Platform for Creators
+# AI-powered Creator Commerce Operating System
 
 **Live Website:** https://tinymillion.com
 
